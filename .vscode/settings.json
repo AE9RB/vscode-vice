@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "out": false
+    },
+    "search.exclude": {
+        "out": true
+    },
+    "typescript.tsc.autoDetect": "off",
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true
+}
